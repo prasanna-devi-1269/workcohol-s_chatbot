@@ -1,0 +1,64 @@
+{
+    "company": {
+        "name": "Workcohol Solutions Private Limited",
+        "CIN": "U78100TN2024PTC169186",
+        "incorporation_date": "2024-04-05",
+        "status": "Active",
+        "authorized_capital": "Rs.10,00,000",
+        "paid_up_capital": "Rs.1,00,000",
+        "headquarters": {
+            "location": "Tidel Park, Taramani, Chennai",
+            "registered_office": "Tidel Park, Dotcoworks, Module 115-D, North Block, First Floor, Rajiv Gandhi Salai, Taramani, Chennai - 600113, India",
+            "corporate_office": "DAL Towers, Old TCS Building, 16, Rajiv Gandhi Salai, Karapakkam, Chennai - 600097, India"
+        },
+        "contact": {
+            "email": "info@workcohol.com",
+            "phone": "+91 9500806413",
+            "website": "workcohol.com"
+        },
+        "directors": [
+            "Girimurthy",
+            "Hemalatha Gopalsing"
+        ]
+    },
+    "team": {
+        "in_house_professionals": 50,
+        "tech_partners": 150
+    },
+    "services": {
+        "technology_talent_marketplace": "Provides a platform that connects businesses with top-tier technology service providers and expert talent.",
+        "software_development": "Specializes in custom applications, software enhancement, and scalable solutions.",
+        "it_support_and_services": "Offers infrastructure management, system maintenance, and technical assistance.",
+        "digital_transformation_strategies": "Helps businesses adopt digital tools, process automation, and tech integration."
+    },
+    "company_values": [
+        "Innovation",
+        "Integrity",
+        "Collaboration",
+        "Customer-Centricity"
+    ],
+    "milestones": [
+        {
+            "year": 2021,
+            "event": "Founded with launch of first business platform."
+        },
+        {
+            "year": 2022,
+            "event": "Opened a new office in Chennai, expanding operations."
+        },
+        {
+            "year": 2023,
+            "event": "Developed over 100 applications with support from 150 tech partners."
+        }
+    ],
+    "career_opportunities": [
+        "Software Engineer (Remote)",
+        "Data Analyst (Remote)",
+        "Business Consultant (MENA Region)",
+        "Full Stack Python Developer (Remote)",
+        "Generative AI Engineer (Remote)",
+        "Client Acquisition Specialist (Chennai)",
+        "Vendor Onboarding Executive (Remote/On-site)"
+    ],
+    "recognition": "Top-rated technology service provider platform, known for innovation and expanded offerings."
+}
